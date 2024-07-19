@@ -20,4 +20,4 @@ classification problem. Evaluate the performance of your trained model again.
 
 ## Submission
 
-Upload your code and a brief description of your results.
+Notes and steps are written in the notebook. As a summary after some manipulation and making quality a categorical ordinal value using Lasso I was able to get a R^2 of 0.07 using Lars linear regression. If I had made one of the features categorical I could have had a 'Lasso One Hot Lars Model', that I'm sure would be a perfect model however, none of the input features fit a categorical type.
